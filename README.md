@@ -1,3 +1,3 @@
-#**RAG Document Processing & Semantic Retrieval**
+⭐ End-to-End-RAG-Pipeline
 
-A practical RAG document-processing project demonstrating PDF loading, text chunking, semantic chunking, and Hugging Face embeddings using LangChain. The project explores different chunking strategies and prepares documents for vector-based retrieval in Retrieval-Augmented Generation (RAG) systems.
+End-to-end RAG pipeline using LangChain, Qdrant, Hugging Face embeddings, and multiple retrieval methods including similarity search, MMR, SVM, and TF-IDF.
