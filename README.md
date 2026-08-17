@@ -1,2 +1,3 @@
-# RAG-Systems
-This project uses Langchain and HuggingFace embeddings to process PDF documents, split them into semantic chunks, and generate embeddings for RAG (Retrieval Augmented Generation) applications. It demonstrates advanced text processing for information retrieval
+#**RAG Document Processing & Semantic Retrieval**
+
+A practical RAG document-processing project demonstrating PDF loading, text chunking, semantic chunking, and Hugging Face embeddings using LangChain. The project explores different chunking strategies and prepares documents for vector-based retrieval in Retrieval-Augmented Generation (RAG) systems.
